@@ -1,0 +1,33 @@
+.sb-selected-type-row {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.list-item {
+  margin-left: 0px;
+  padding-left: 0px;
+  padding: 10px;
+}
+
+.seat-list-item {
+  margin-left: 0px;
+  padding-left: 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.selected-list-item {
+  padding: 17px;
+}
+
+.sb-row-name {
+  color: #ec09c6;
+  font-family: 'Roboto';
+  font-size: 20px;
+}

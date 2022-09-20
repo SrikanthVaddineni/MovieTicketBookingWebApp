@@ -1,0 +1,82 @@
+.seat-booking-card {
+  padding: 20px;
+  background-color: #b6a8a8;
+  background-size: cover;
+  width: 100%;
+}
+
+.sb-type-select-title {
+  color: #e2f10a;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.sb-type-select {
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: aquamarine;
+  color: #f30909;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.sb-none-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+.sb-none-view-image {
+  height: 300px;
+  width: 300px;
+}
+
+.error-text {
+  color: #f70808;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.sb-type-title {
+  color: #1e08e6;
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: center;
+}
+
+.sb-selected-type {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.screen-view {
+  height: 50px;
+  width: 40%;
+  background-color: #89c4cc;
+  box-shadow: 5px 5px 5px 5px #666060;
+}
+
+.screen-view-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sb-hall-view {
+  color: #220e7c;
+  font-family: 'Roboto';
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}

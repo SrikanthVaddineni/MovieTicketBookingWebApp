@@ -1,0 +1,14 @@
+.nav-bar-card {
+  background-color: #3aa5cf;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.nav-logo-img {
+  height: 60px;
+  width: 80px;
+  border-radius: 10px;
+}

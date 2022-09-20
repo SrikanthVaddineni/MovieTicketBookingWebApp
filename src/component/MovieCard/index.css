@@ -1,0 +1,46 @@
+.movie-item {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  width: 200px;
+}
+
+.movie-poster {
+  height: 200px;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.movie-details {
+  padding: 10px;
+}
+
+.movie-title {
+  color: #222222;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.movie-interactions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0px;
+}
+
+.movie-likes {
+  color: #3d3939;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin: 10px;
+}

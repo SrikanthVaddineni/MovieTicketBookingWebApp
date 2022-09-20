@@ -1,0 +1,30 @@
+.footer-line {
+  background-color: #f7f0f0;
+  border: none;
+  height: 2px;
+}
+
+.footer-card {
+  background-color: #222222;
+  height: 120px;
+}
+
+.footer-media {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-copyright {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.footer-icon-space {
+  margin-left: 10px;
+  margin-right: 10px;
+}
